@@ -13,9 +13,8 @@ def assembled_aoh
 end
 
 def literal_aoh
-  array_of_hashes = [{
-    
-  }]
+  array_of_hashes = [
+    {:name => "Don Gately", :occupation => }]
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
